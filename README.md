@@ -49,6 +49,11 @@ A new Flutter project.
 - Selection of image type (jpg used)
 - Did not use the required state management State management, Used: Flutter hooks( Better for this specific Application )
 
+## Walktrough 
+  <video width="320" height="240" controls>
+    <source src="https://drive.google.com/file/d/1kS3VOvgPmX9-5P34IdOD3GFWUNVEM5eY/view?usp=sharing" type="video/mp4">
+  </video>
+
 ## Screenshot
 
 ![alt text](screenshots/Screenshot_1709575671.png)
