@@ -50,7 +50,7 @@ A new Flutter project.
 - Did not use the required state management State management, Used: Flutter hooks( Better for this specific Application )
 
 ## Walktrough 
-  [![IMAGE ALT TEXT]](https://drive.google.com/file/d/1kS3VOvgPmX9-5P34IdOD3GFWUNVEM5eY/view?usp=sharin)
+  [![Click Here]](https://drive.google.com/file/d/1kS3VOvgPmX9-5P34IdOD3GFWUNVEM5eY/view?usp=sharin)
 
 
 
